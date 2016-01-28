@@ -38,3 +38,4 @@
 
 ## 2016-01-28
 * contribution-designer №1
+* contribution-designer №2
