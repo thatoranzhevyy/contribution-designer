@@ -50,3 +50,4 @@
 
 ## 2016-01-29
 * contribution-designer №1
+* contribution-designer №2
