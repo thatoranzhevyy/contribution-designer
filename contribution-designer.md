@@ -143,3 +143,6 @@
 * contribution-designer №8
 * contribution-designer №9
 * contribution-designer №10
+
+## 2016-02-27
+* contribution-designer №1
