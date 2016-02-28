@@ -162,3 +162,4 @@
 * contribution-designer №3
 * contribution-designer №4
 * contribution-designer №5
+* contribution-designer №6
