@@ -255,3 +255,4 @@
 ## 2016-03-18
 * contribution-designer №1
 * contribution-designer №2
+* contribution-designer №3
