@@ -326,3 +326,4 @@
 
 ## 2016-04-22
 * contribution-designer №1
+* contribution-designer №2
