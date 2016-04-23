@@ -339,3 +339,4 @@
 ## 2016-04-23
 * contribution-designer №1
 * contribution-designer №2
+* contribution-designer №3
