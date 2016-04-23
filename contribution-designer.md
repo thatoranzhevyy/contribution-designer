@@ -344,3 +344,4 @@
 * contribution-designer №5
 * contribution-designer №6
 * contribution-designer №7
+* contribution-designer №8
