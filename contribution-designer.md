@@ -495,3 +495,4 @@
 ## 2016-07-09
 * contribution-designer №1
 * contribution-designer №2
+* contribution-designer №3
