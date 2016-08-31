@@ -590,3 +590,4 @@
 
 ## 2016-08-31
 * contribution-designer №1
+* contribution-designer №2
