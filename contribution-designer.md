@@ -587,3 +587,6 @@
 * contribution-designer №8
 * contribution-designer №9
 * contribution-designer №10
+
+## 2016-08-31
+* contribution-designer №1
