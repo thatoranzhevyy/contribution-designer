@@ -599,3 +599,6 @@
 * contribution-designer №8
 * contribution-designer №9
 * contribution-designer №10
+
+## 2016-09-01
+* contribution-designer №1
