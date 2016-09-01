@@ -602,3 +602,4 @@
 
 ## 2016-09-01
 * contribution-designer №1
+* contribution-designer №2
