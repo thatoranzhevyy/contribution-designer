@@ -650,3 +650,4 @@
 
 ## 2016-10-04
 * contribution-designer №1
+* contribution-designer №2
