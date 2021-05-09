@@ -2,8 +2,12 @@
   "name": "contribution-designer",
   "version": "0.0.1",
   "description": "design your github contribution list",
+  "author": "Bogenbai Bayzharassov <@thatoranzhevyy>",
   "license": "MIT",
   "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "start": "esno src/index.ts"
   },
