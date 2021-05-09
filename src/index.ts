@@ -20,8 +20,7 @@ console.log("Draw graph for repository: " + repository)
 
 if (!commits) {
   console.log("There should be exactly 7 lines of 52 characters each: 7 days in a week, 52 weeks in a year.")
-  // @ts-ignore
-  return false;
+  process.exit(1)
 }
 console.log('Commit graph:', commits);
 
