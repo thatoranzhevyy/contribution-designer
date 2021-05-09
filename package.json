@@ -1,0 +1,14 @@
+{
+  "name": "contribution-designer",
+  "version": "0.0.1",
+  "description": "design your github contribution list",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "esno src/index.ts"
+  },
+  "dependencies": {
+    "esno": "^0.5.0",
+    "typescript": "^4.2.4"
+  }
+}

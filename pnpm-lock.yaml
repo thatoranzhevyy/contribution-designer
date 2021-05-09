@@ -1,0 +1,48 @@
+lockfileVersion: 5.3
+
+specifiers:
+  esno: ^0.5.0
+  typescript: ^4.2.4
+
+dependencies:
+  esno: 0.5.0
+  typescript: 4.2.4
+
+packages:
+
+  /esbuild-register/2.5.0:
+    resolution: {integrity: sha512-5a8W3rH7IQbIPR9pPXJFkC3+CRMtm/OSpBz3hkWUUU63oPZ3NU6dVDGfaIjKnRizCTIRoGjNE6KEDt5p1sLwEw==}
+    dependencies:
+      esbuild: 0.11.20
+      jsonc-parser: 3.0.0
+    dev: false
+
+  /esbuild/0.11.20:
+    resolution: {integrity: sha512-QOZrVpN/Yz74xfat0H6euSgn3RnwLevY1mJTEXneukz1ln9qB+ieaerRMzSeETpz/UJWsBMzRVR/andBht5WKw==}
+    hasBin: true
+    requiresBuild: true
+    dev: false
+
+  /esbuild/0.9.7:
+    resolution: {integrity: sha512-VtUf6aQ89VTmMLKrWHYG50uByMF4JQlVysb8dmg6cOgW8JnFCipmz7p+HNBl+RR3LLCuBxFGVauAe2wfnF9bLg==}
+    hasBin: true
+    requiresBuild: true
+    dev: false
+
+  /esno/0.5.0:
+    resolution: {integrity: sha512-r0tsflar7RB918JCjTNyU2QWfgyH2jgfAzHK1tABr3A5y84ruS86JanVHc6wove/V5I98soLZbg8Foso1dqCMA==}
+    hasBin: true
+    dependencies:
+      esbuild: 0.9.7
+      esbuild-register: 2.5.0
+    dev: false
+
+  /jsonc-parser/3.0.0:
+    resolution: {integrity: sha512-fQzRfAbIBnR0IQvftw9FJveWiHp72Fg20giDrHz6TdfB12UH/uue0D3hm57UB5KgAVuniLMCaS8P1IMj9NR7cA==}
+    dev: false
+
+  /typescript/4.2.4:
+    resolution: {integrity: sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: false
