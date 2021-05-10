@@ -12,4 +12,4 @@ The program recognizes three color gradations:
   * light shade - average activity on a given day
   * dark shade - high activity on a given day
 
-See the file [index.ts] (src/index.ts) for all the necessary settings: picture data and repository address.
+See the file [index.ts](src/index.ts) for all the necessary settings: picture data and repository address.
